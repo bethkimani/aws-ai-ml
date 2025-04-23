@@ -1,0 +1,64 @@
+{
+    "members": [
+      {
+        "id": 1,
+        "name": "Kevin Tuei",
+        "role": "Community Lead",
+        "expertise": "Cloud Developer | AWS Community Builder | Atlassian Community Leader",
+        "image": "/assets/team/Kevin.webp",
+        "social": {
+          "linkedin": "https://www.linkedin.com/in/kevintuei",
+          "twitter": "https://x.com/kevshakes",
+          "github": "https://github.com/kevshakes"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Rachael Wanjau",
+        "role": "Head of Graphics",
+        "expertise": "Graphic Designer | Creative Technologist",
+        "image": "/assets/team/Rachael.webp",
+        "social": {
+          "linkedin": "https://www.linkedin.com/in/rachaelwanjau/",
+          "twitter": "https://x.com",
+          "github": "https://github.com"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Sherry Obare",
+        "role": "Head of Social Media",
+        "expertise": "She Code Africa Chuka Chapter lead | TechLit Africa Community Outreach Co-ordinator | Microsoft ADC WINS mentee",
+        "image": "/assets/team/Sherry.webp",
+        "social": {
+          "linkedin": "https://www.linkedin.com/in/sherry-obare/",
+          "twitter": "https://x.com",
+          "github": "https://github.com"
+        }
+      },
+      {
+        "id": 4,
+        "name": "Misheck Murimi",
+        "role": "Head of Content",
+        "expertise": "Machine Learning specialist with focus on NLP and computer vision applications.",
+        "image": "/assets/team/Misheck.webp",
+        "social": {
+          "linkedin": "https://linkedin.com",
+          "twitter": "https://x.com",
+          "github": "https://github.com"
+        }
+      },
+      {
+        "id": 5,
+        "name": "Jully Achenchi",
+        "role": "Head of people Relations",
+        "expertise": "A Thinker tinkering in the cloud | Cloud/DevOps Engineer",
+        "image": "/assets/team/Jully.webp",
+        "social": {
+          "linkedin": "https://www.linkedin.com/in/jully-achenchi",
+          "twitter": "https://x.com/priyap",
+          "github": "https://github.com/priyap"
+        }
+      }
+    ]
+  }
