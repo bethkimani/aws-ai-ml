@@ -7,4 +7,4 @@
 
 3. Install packages: ``` pnpm install ```
 
-4. Run the application: ```pnpm run dev```
+4. Run the application: ```pnpm run dev```# aws-ai-ml
